@@ -1,0 +1,1 @@
+moveCall({ priority: number }): void;
